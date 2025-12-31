@@ -2,6 +2,8 @@
 
 An agent skill for managing Waybar configuration using natural language.
 
+<img width="2104" height="2354" alt="omarchy-waybar-screenshot" src="https://github.com/user-attachments/assets/61be53a2-041f-41bd-98de-f4db4fb8f6a1" />
+
 ## Overview
 
 This skill enables AI coding agents to understand and modify your Waybar status bar configuration. It's designed for [Omarchy](https://omarchy.org/) Linux systems.
